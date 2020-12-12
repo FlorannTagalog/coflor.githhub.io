@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Linear Algebra
+# What is Linear Algebra?
 ## Header 2
 ### Header 3
 
